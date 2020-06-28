@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HT_2.2.2</string>
+    <string name="buttonSave">Сохранить</string>
+    <string name="buttonCheck">Check</string>
+    <string name="help">Send help, please</string>
+    <string name="sendButton">Send</string>
+    <string name="thanks">Благодарю)</string>
+    <string name="checkBook">Записная книжка</string>
+    <string name="calendar">Календарь</string>
+    <string name="helpToast">Вы сделали всё, что могли...</string>
+</resources>
